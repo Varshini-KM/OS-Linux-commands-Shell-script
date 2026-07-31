@@ -1134,7 +1134,8 @@ else
 fi
 ```
 ## OUTPUT 
-<img width="724" height="821" alt="Screenshot 2026-08-01 001036" src="https://github.com/user-attachments/assets/0e503020-4ef8-4dab-8d42-097759cabc6a" />
+<img width="502" height="610" alt="image" src="https://github.com/user-attachments/assets/1c17dd7c-1d30-4710-b653-4d2d99202b74" />
+
 
 
 
