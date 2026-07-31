@@ -80,6 +80,8 @@ Hello world
 This is my world
 ^d
 ```
+<img width="388" height="276" alt="Screenshot 2026-07-31 212523" src="https://github.com/user-attachments/assets/cb5f185c-3797-41fc-b6ba-a2048ec9e2cd" />
+
 cat > file22
 ```
 1001 | Ram | 10000 | HR
@@ -87,7 +89,6 @@ cat > file22
 1003 | Joe |  7000 | Developer
 ^d
 ```
-<img width="388" height="276" alt="Screenshot 2026-07-31 212523" src="https://github.com/user-attachments/assets/cb5f185c-3797-41fc-b6ba-a2048ec9e2cd" />
 <img width="385" height="359" alt="Screenshot 2026-07-31 212554" src="https://github.com/user-attachments/assets/762c66ec-5480-4c9f-a100-81c7c6f87a97" />
 
 
@@ -119,15 +120,18 @@ Hello world
 hello world
 ^d
 ````
+
+<img width="446" height="101" alt="Screenshot 2026-07-31 212822" src="https://github.com/user-attachments/assets/917f1617-20bd-4437-84d4-c5afb4315cec" />
+
 cat > newfile 
 Hello world
 hello world
 
 
-<img width="446" height="101" alt="Screenshot 2026-07-31 212822" src="https://github.com/user-attachments/assets/917f1617-20bd-4437-84d4-c5afb4315cec" />
 
 grep Hello newfile 
 ## OUTPUT
+
 
 
 
