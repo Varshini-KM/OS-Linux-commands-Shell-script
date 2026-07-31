@@ -57,14 +57,17 @@ cat < file2
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
+<img width="399" height="119" alt="Screenshot 2026-07-31 212344" src="https://github.com/user-attachments/assets/2de6d99b-1bd7-4c54-85e2-c5852dfecb45" />
 
  
 comm file1 file2
  ## OUTPUT
+<img width="386" height="249" alt="Screenshot 2026-07-31 212417" src="https://github.com/user-attachments/assets/b14d2e6d-dafa-450a-9310-f4c9d555a6ff" />
 
  
 diff file1 file2
 ## OUTPUT
+<img width="407" height="317" alt="Screenshot 2026-07-31 212435" src="https://github.com/user-attachments/assets/c09cdc15-6950-479e-8fb3-88fbef59c68c" />
 
 
 #Filters
@@ -84,21 +87,30 @@ cat > file22
 1003 | Joe |  7000 | Developer
 ^d
 ```
+<img width="388" height="276" alt="Screenshot 2026-07-31 212523" src="https://github.com/user-attachments/assets/cb5f185c-3797-41fc-b6ba-a2048ec9e2cd" />
+<img width="385" height="359" alt="Screenshot 2026-07-31 212554" src="https://github.com/user-attachments/assets/762c66ec-5480-4c9f-a100-81c7c6f87a97" />
+
 
 
 cut -c1-3 file11
 ## OUTPUT
+<img width="366" height="212" alt="Screenshot 2026-07-31 212618" src="https://github.com/user-attachments/assets/626289ea-8211-4cc8-b2ee-d8ef0a7aedfd" />
+
 
 
 
 
 cut -d "|" -f 1 file22
 ## OUTPUT
+<img width="359" height="131" alt="Screenshot 2026-07-31 212749" src="https://github.com/user-attachments/assets/ec292256-c08d-4043-b23e-dc4c6d9907ff" />
+
+
 
 
 
 cut -d "|" -f 2 file22
 ## OUTPUT
+<img width="405" height="124" alt="Screenshot 2026-07-31 212637" src="https://github.com/user-attachments/assets/905f5940-56bd-4152-85e2-33d7e4db91d9" />
 
 
 cat < newfile 
@@ -110,7 +122,10 @@ hello world
 cat > newfile 
 Hello world
 hello world
- 
+
+
+<img width="446" height="101" alt="Screenshot 2026-07-31 212822" src="https://github.com/user-attachments/assets/917f1617-20bd-4437-84d4-c5afb4315cec" />
+
 grep Hello newfile 
 ## OUTPUT
 
