@@ -383,11 +383,11 @@ tar -xvf backup.tar
 gzip backup.tar
 
 ls .gz
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/c73fd1be-126a-4f25-a826-74c5b1c72a3c" />
 
  
 gunzip backup.tar.gz
 ## OUTPUT
-<img width="663" height="69" alt="image" src="https://github.com/user-attachments/assets/75407571-f5f7-4fc5-a7d2-783fd66b99f2" />
 
  
 # Shell Script
@@ -398,7 +398,7 @@ echo 'echo Hello World‘; exit 0 >> my-script.sh
 chmod 755 my-script.sh
 ./my-script.sh
 ## OUTPUT
-<img width="476" height="118" alt="image" src="https://github.com/user-attachments/assets/83249672-02bc-4fdc-9ac6-d033e03e2de8" />
+
 
 
  
@@ -412,9 +412,10 @@ stop
 
 cat herecheck.txt
 ## OUTPUT
-<img width="523" height="176" alt="Screenshot 2026-08-01 001814" src="https://github.com/user-attachments/assets/7ca5b83a-256b-4f31-a9d4-240ff4747cd4" />
+<img width="1535" height="1024" alt="image" src="https://github.com/user-attachments/assets/1fc0c955-4949-40bd-bd17-b6754d90e24b" />
 
-<img width="302" height="73" alt="image" src="https://github.com/user-attachments/assets/a3920ea2-8fe1-4434-b063-ae186e8e2e87" />
+
+
 
 
 cat < scriptest.sh 
@@ -453,7 +454,7 @@ chmod 777 scriptest.sh
 ./scriptest.sh 1 2 3
 
 ## OUTPUT
-<img width="373" height="259" alt="image" src="https://github.com/user-attachments/assets/84d5a932-d195-4485-b97a-716a3e12b434" />
+
 
 
  
@@ -467,13 +468,13 @@ bash: ./one: Permission denied
  
 echo $?
 ## OUTPUT 
- <img width="336" height="85" alt="image" src="https://github.com/user-attachments/assets/818cb0a8-8ea1-43a9-bfe6-910ba78c3c3d" />
+ 
 
 abcd
  
 echo $?
  ## OUTPUT
-<img width="336" height="85" alt="image" src="https://github.com/user-attachments/assets/785df50f-6d2d-4c3a-8a9a-b3a87535f8f8" />
+
 
 
  
@@ -1135,6 +1136,8 @@ fi
 ```
 ## OUTPUT 
 <img width="502" height="610" alt="image" src="https://github.com/user-attachments/assets/1c17dd7c-1d30-4710-b653-4d2d99202b74" />
+
+<img width="320" height="127" alt="Screenshot 2026-08-07 230425" src="https://github.com/user-attachments/assets/24e41800-2781-4beb-b595-c8cb7e0a0eb6" />
 
 
 
