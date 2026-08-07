@@ -412,7 +412,7 @@ stop
 
 cat herecheck.txt
 ## OUTPUT
-<img width="1535" height="1024" alt="image" src="https://github.com/user-attachments/assets/1fc0c955-4949-40bd-bd17-b6754d90e24b" />
+<img width="775" height="674" alt="image" src="https://github.com/user-attachments/assets/1fc0c955-4949-40bd-bd17-b6754d90e24b" />
 
 
 
