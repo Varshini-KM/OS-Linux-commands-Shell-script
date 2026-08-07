@@ -388,7 +388,7 @@ ls .gz
  
 gunzip backup.tar.gz
 ## OUTPUT
-<img width="272" height="224" alt="image" src="https://github.com/user-attachments/assets/cdd7ced6-11e3-416b-8e58-86f13235dcd4" />
+<img width="872" height="324" alt="image" src="https://github.com/user-attachments/assets/cdd7ced6-11e3-416b-8e58-86f13235dcd4" />
 
  
 # Shell Script
@@ -399,7 +399,7 @@ echo 'echo Hello World‘; exit 0 >> my-script.sh
 chmod 755 my-script.sh
 ./my-script.sh
 ## OUTPUT
-<img width="228" height="216" alt="image" src="https://github.com/user-attachments/assets/9cc0c7ad-1dc1-4937-89b6-6533e39b76e6" />
+<img width="728" height="316" alt="image" src="https://github.com/user-attachments/assets/9cc0c7ad-1dc1-4937-89b6-6533e39b76e6" />
 
 
 
@@ -456,27 +456,23 @@ chmod 777 scriptest.sh
 ./scriptest.sh 1 2 3
 
 ## OUTPUT
-<img width="1428" height="1101" alt="image" src="https://github.com/user-attachments/assets/56ffb9f5-5c16-408b-bca8-8c0fbe445ad5" />
+<img width="828" height="601" alt="image" src="https://github.com/user-attachments/assets/56ffb9f5-5c16-408b-bca8-8c0fbe445ad5" />
 
 
 
  
 ls file1
-## OUTPUT
 
 echo $?
-## OUTPUT 
+
 ./one
 bash: ./one: Permission denied
- 
-echo $?
-## OUTPUT 
- 
 
 abcd
  
 echo $?
  ## OUTPUT
+<img width="493" height="231" alt="image" src="https://github.com/user-attachments/assets/ceba270d-2838-424a-ac61-afa4a2732f64" />
 
 
 
@@ -1023,13 +1019,13 @@ fi
 ```
 ## OUTPUT
  ./funcex.sh 
- <img width="523" height="200" alt="Screenshot 2026-08-01 001133" src="https://github.com/user-attachments/assets/8c1611b0-d184-49a4-ad8d-6c38ffbde12d" />
+ <img width="423" height="200" alt="Screenshot 2026-08-01 001133" src="https://github.com/user-attachments/assets/8c1611b0-d184-49a4-ad8d-6c38ffbde12d" />
 
  
 
  
  ./funcex.sh 1 2
-<img width="1716" height="917" alt="image" src="https://github.com/user-attachments/assets/f3d80b43-1563-4c48-84e7-cff5aea34cbe" />
+<img width="516" height="417" alt="image" src="https://github.com/user-attachments/assets/f3d80b43-1563-4c48-84e7-cff5aea34cbe" />
 
 
  
@@ -1045,7 +1041,7 @@ $ chmod 777 argshift.sh
 
 ## OUTPUT
 $ ./argshift.sh 1 2 3
-<img width="1718" height="915" alt="image" src="https://github.com/user-attachments/assets/329ce215-d989-4026-a437-978e609ae1c8" />
+<img width="618" height="615" alt="image" src="https://github.com/user-attachments/assets/329ce215-d989-4026-a437-978e609ae1c8" />
 
  
  cat argshift1.sh
@@ -1064,7 +1060,8 @@ done
 $ chmod 777 argshift.sh
 ## OUTPUT
 $ ./argshift.sh 1 2 3
- 
+ <img width="682" height="630" alt="image" src="https://github.com/user-attachments/assets/d94d85f4-7867-4a3a-80b2-047cbccfbb77" />
+
 cat argshift.sh
 ```bash
 #!/bin/bash 
@@ -1077,7 +1074,7 @@ set +x
 ```
 ## OUTPUT
  ./argshift.sh 1 2 3
- <img width="574" height="267" alt="Screenshot 2026-08-01 001100" src="https://github.com/user-attachments/assets/f781bb0c-823c-4161-a543-f04eafbdc469" />
+ <img width="474" height="267" alt="Screenshot 2026-08-01 001100" src="https://github.com/user-attachments/assets/f781bb0c-823c-4161-a543-f04eafbdc469" />
 
  
  
@@ -1110,7 +1107,8 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
-<img width="485" height="416" alt="Screenshot 2026-08-01 001017" src="https://github.com/user-attachments/assets/4440666c-55a2-4b62-a1ad-2f7a3f60d875" />
+<img width="668" height="647" alt="image" src="https://github.com/user-attachments/assets/94263600-67b6-44c0-9fc0-8a8afc367d5f" />
+
 
  
 cat > palindrome.sh
